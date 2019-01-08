@@ -275,12 +275,7 @@
     - [ ] [Как планировать время: 7 самых популярных техник тайм-менеджмента](http://uspevai7ya.ru/2014/10/kak-planirovat-vremya/)
     - [ ] [Тайм-менеджмент для разработчика](https://habrahabr.ru/post/259293/)
     - [ ] [Управление временем (Wikipedia)](https://ru.wikipedia.org/wiki/%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B5%D0%BC)
-
----
-
-## Карта развития Back-end разработчика [&uarr;](#Содержание)
-
-### Алгоритмы [&uarr;](#Содержание)
+    ### Алгоритмы [&uarr;](#Содержание)
 - [ ] Познакомиться с алгоритмами:
     - [ ] Сортировки
     - [ ] Поиска в строке
@@ -297,25 +292,6 @@
     - [ ] [Грокаем алгоритмы. Иллюстрированное пособие для программистов и любопытствующих (Адитья Бхаргава)](https://www.ozon.ru/context/detail/id/139296295/)
     - [ ] [Алгоритмы. Вводный курс (Томас Х. Кормен)](http://www.ozon.ru/context/detail/id/24903185/)
 
----
-
-### Серверные языки программирования [&uarr;](#Содержание)
-**Цель** - освоить несколько серверных языков программирования.
-
-Нельзя останавливаться на одном языке, так как у вас может появиться 'JAVA головного мозга' - неспособность думать за пределами своего языка программирования.
-
-Лозунг: нужно программировать не на языке программирования, а используя его.
-
-- [ ] Примеры серверных языков:
-    - [ ] PHP
-    - [ ] Python
-    - [ ] Ruby
-
-- [ ] Статьи:
-    - [ ] Типы данных
-    - [ ] [Функциональное программирование](#Функциональное-программирование-)
-    - [ ] [Объектно-ориентированное программирование](#Объектно-ориентированное-программирование-)
-    - [ ] [Тестирование](#Тестирование-)
 
 ---
 
@@ -326,12 +302,13 @@
     - [ ] Поведенческие шаблоны проектирования
 
 - [ ] Статьи:
-    - [ ] [DesignPatternsPHP](http://designpatternsphp.readthedocs.io/ru/latest/README.html)
+    - [ ] [Design Patterns Book](http://wiki.c2.com/?DesignPatternsBook)
     - [ ] [Шаблон проектирования (wikipedia)](https://ru.wikipedia.org/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
     - [ ] [Шпаргалка по шаблонам проектирования (habrahabr)](https://habrahabr.ru/post/210288/)
     - [ ] [Справочник «Паттерны проектирования»](http://design-pattern.ru/)
     - [ ] [Design Patterns for Humans (Github)](https://github.com/kamranahmedse/design-patterns-for-humans)
     - [ ] [Каталог паттернов проектирования](https://refactoring.guru/ru/design-patterns/catalog)
+    - [ ] [Презинтация по паттернам](https://wsd.events/2012/11/24/pres/patterns/)
 
 - [ ] Видео:
     - [ ] [Webinar: Patterns (Hexlet)](https://www.youtube.com/watch?v=wX6BBaQZpzE)
@@ -365,116 +342,6 @@
 
 ---
 
-### SQL [&uarr;](#Содержание)
-- [ ] Усвоить понятия:
-    - [ ] DDL, DML, DQL
-    - [ ] Создание и удаление базы данных, таблицы
-    - [ ] Добавление, обновление и удаление записи
-    - [ ] Схема (SCHEMA)
-    - [ ] Представления (VIEWS)
-    - [ ] WHERE
-    - [ ] LIMIT, OFFSET
-    - [ ] ORDER BY
-    - [ ] GROUP BY
-    - [ ] JOIN
-    - [ ] Подзапросы
-
-- [ ] Статьи:
-    - [ ] [Что такое SQL (wikipedia)](https://ru.wikipedia.org/wiki/SQL)
-    - [ ] [Схема базы данных (wikipedia)](https://ru.wikipedia.org/wiki/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D0%B1%D0%B0%D0%B7%D1%8B_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
-    - [ ] [Представления в MySQL (habrahabr)](https://habrahabr.ru/post/47031/)
-    - [ ] [Квалифицированный выбор при использовании предложений](http://www.sql.ru/docs/sql/u_sql/ch3.shtml#3.9)
-    - [ ] [Полнотекстовый поиск и его возможности (habrahabr)](https://habrahabr.ru/post/40218/)
-
-- [ ] Курсы:
-    - [ ] [Базы данных: SQL (DDL/DML) (Hexlet)](https://ru.hexlet.io/courses/postgresql-ddl)
-    - [ ] [Базы данных: SQL (DQL) (Hexlet)](https://ru.hexlet.io/courses/sql-dql)
-
----
-
-### Проектирование баз данных [&uarr;](#Содержание)
-- [ ] Усвоить понятия:
-    - [ ] Нормализация
-    - [ ] Денормализация
-    - [ ] Связи
-
-- [ ] Статьи:
-    - [ ] [Проектирование баз данных (wikipedia)](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B1%D0%B0%D0%B7_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
-    - [ ] [Нормальная форма (wikipedia)](https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%84%D0%BE%D1%80%D0%BC%D0%B0)
-    - [ ] [Нормализация отношений. Шесть нормальных форм (habrahabr)](https://habrahabr.ru/post/254773/)
-    - [ ] [Денормализация БД. Зачем? Когда? Как? (habrahabr)](https://habrahabr.ru/post/64524/)
-
----
-
-### Фреймворки [&uarr;](#Содержание)
-Для разных языков программирования существуют разные фреймворки, не нужно изучать всё сразу, необходимо взять несколько фреймворков за основу.
-
-- [ ] PHP фреймворки:
-    - [ ] [Slim microframework](http://www.slimframework.com/)
-    - [ ] [Laravel](https://laravel.com/)
-    - [ ] [Symfony](https://symfony.com/)
-    - [ ] [Yii](http://www.yiiframework.com/)
-
-- [ ] Python фреймворки:
-    - [ ] [Django](https://www.djangoproject.com/)
-    - [ ] [Flask](http://flask.pocoo.org/)
-
-- [ ] Ruby фреймворки:
-    - [ ] [Ruby on Rails](http://rubyonrails.org/)
-
-- [ ] Статьи:
-    - [ ] [Фреймворк (wikipedia)](https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA)
-    - [ ] [Не учите фреймворки, учите архитектуру (habrahabr)](https://habrahabr.ru/post/253297/)
-
----
-
-### Пакетный менеджер [&uarr;](#Содержание)
-- [ ] Список пакетных менеджеров:
-    - [ ] Для PHP - [composer](https://getcomposer.org/)
-    - [ ] Для Python - [pip](https://pypi.python.org/pypi/pip)
-    - [ ] Для Ruby - [bundler](http://bundler.io/)
-    - [ ] Для Javascript - [npm](https://www.npmjs.com/), [yarn](https://yarnpkg.com/)
-
-- [ ] Статьи:
-    - [ ] [Composer — менеджер зависимостей для PHP (habrahabr)](https://habrahabr.ru/post/145946/)
-    - [ ] [npm для простых смертных (habrahabr)](https://habrahabr.ru/post/243335/)
-
----
-
-### Устройство веб-серверов и способы взаимодействия [&uarr;](#Содержание)
-- [ ] Усвоить понятия:
-    - [ ] HTTP
-    - [ ] NGINX
-    - [ ] APACHE
-    - [ ] Треды
-    - [ ] Worker
-    - [ ] CGI
-    - [ ] FastCGI
-    - [ ] event Loop
-
-- [ ] Статьи:
-    - [ ] [Протокол HTTP (devmap)](http.md)
-    - [ ] [Веб-сервер (wikipedia)](https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%B1-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80)
-    - [ ] [Модели работы веб-серверов](http://algolist.manual.ru/web/servers.php)
-
----
-
-### Развертывание проектов [&uarr;](#Содержание)
-- [ ] Усвоить понятия:
-    - [ ] Деплой
-    - [ ] Миграции
-    - [ ] Релизы
-    - [ ] Еnvironment
-    - [ ] Непрерывная интеграция (CI)
-
-- [ ] Статьи:
-    - [ ] [Версионная миграция структуры базы данных: основные подходы (habrahabr)](https://habrahabr.ru/post/121265/)
-    - [ ] [Нумерация версий ПО для новичков и не только (habrahabr)](https://habrahabr.ru/post/119400/)
-    - [ ] [Automated git deployments from Bitbucket](http://jonathannicol.com/blog/2013/11/19/automated-git-deployments-from-bitbucket/)
-    - [ ] [How to use Vagrant for local web development](http://tech.osteel.me/posts/2015/01/25/how-to-use-vagrant-for-local-web-development.html)
-    - [ ] [Vagrant для малышей, или как на Windows легко получить настроенный сервер для разработки веб-приложений](https://habrahabr.ru/post/251529/)
-
----
 
 ## Карта развития Front-end разработчика [&uarr;](#Содержание)
 
@@ -517,11 +384,12 @@
 **Цель** - познакомиться с наиболее популярными библиотеками JavaScript. Знать где и когда их применять.
 
 Список библиотек:
+
+- [ ] [ReactJS](https://reactjs.org/) *
+- [ ] [Babel - компилятор для написания JavaScript следующего поколения](https://babeljs.io/) * 
 - [ ] [jQuery](https://jquery.com/)
-- [ ] [ReactJS](https://reactjs.org/)
 - [ ] [Underscore - набор полезных функций](http://underscorejs.org/)
 - [ ] [Modernizr - обнаруживает HTML5 и CSS3 функции в браузере пользователя](https://modernizr.com/)
-- [ ] [Babel - компилятор для написания JavaScript следующего поколения](https://babeljs.io/)
 - [ ] [Three - 3D](http://threejs.org/)
 - [ ] [WOW - анимация при прокрутки страницы](http://mynameismatthieu.com/WOW/)
 - [ ] [Moment - Работа с датой и временем](http://momentjs.com/)
@@ -553,9 +421,9 @@
 Сборщик проектов — небольшое приложение, которое используется для автоматизации скучных и рутинных задач, которые приходится постоянно выполнять в процессе разработки проекта. Такие задачи включают в себя, к примеру, запуск модульных тестов, конкатенацию файлов, минификацию, препроцессинг CSS.
 
 - [ ] Сборщики проектов:
+    - [ ] [Webpack](https://webpack.github.io/) *
     - [ ] [Gulp](http://gulpjs.com/)
     - [ ] [Grunt](http://gruntjs.com/)
-    - [ ] [Webpack](https://webpack.github.io/)
 
 - [ ] Статьи:
     - [ ] [Приятная сборка frontend проекта (habrahabr)](https://habrahabr.ru/post/250569/)
@@ -566,35 +434,12 @@
 
 ### Пакетный менеджер [&uarr;](#Содержание)
 - [ ] Список пакетных менеджеров:
-    - [ ] [Bower](https://bower.io/)
-    - [ ] [npm](https://www.npmjs.com/)
-    - [ ] [Yarn](https://yarnpkg.com/)
+    - [ ] [npm](https://www.npmjs.com/) *
+    - [ ] [Yarn](https://yarnpkg.com/) *
 
 - [ ] Статьи:
     - [ ] [Пакетный менеджер (Backend)](backend-dependency-manager.md)
     - [ ] [npm для простых смертных (habrahabr)](https://habrahabr.ru/post/243335/)
-
----
-
-### CSS фреймворки [&uarr;](#Содержание)
-- [ ] Список фреймворков:
-    - [ ] [Bootstrap](http://getbootstrap.com/)
-    - [ ] [Skeleton](http://getskeleton.com/)
-    - [ ] [Foundation](http://foundation.zurb.com/)
-
-- [ ] Статьи:
-    - [ ] [Длинная телега про Бутстрап](https://gist.github.com/iAdramelk/d328b73c72cab92ef95f)
-
----
-
-### JavaScript фреймворки [&uarr;](#Содержание)
-Существуют разные фреймворки, не нужно изучать всё сразу, необходимо взять несколько фреймворков за основу.
-
-Список фреймворков:
-- [ ] [AngularJS](https://angular.io/)
-- [ ] [Vue - создание интерактивных интерфейсов](http://vuejs.org/)
-- [ ] [Backbone](http://backbonejs.org/)
-- [ ] [Ember](http://emberjs.com/)
 
 ---
 
@@ -611,3 +456,21 @@
 - [ ] Статьи:
     - [ ] [Одностраничное приложение (wikipedia)](https://ru.wikipedia.org/wiki/%D0%9E%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5)
     - [ ] [Пишем single-page web application framework в 60 строках кода (habrahabr)](https://habrahabr.ru/post/200720/)
+    
+### React JS advanced [&uarr;](#Содержание)
+Существуют разные фреймворки, не нужно изучать всё сразу, необходимо взять несколько фреймворков за основу.
+    - [ ] [Redux](https://redux.js.org/)
+    - [ ] [React-Redux](https://github.com/reduxjs/react-redux)
+    - [ ] [Redux-Saga](https://redux-saga.js.org/docs/introduction/BeginnerTutorial.html)
+    - [ ] [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
+    - [ ] [redux-actions](https://redux-actions.js.org/)
+    - [ ] [recompose](https://github.com/acdlite/recompose)
+    - [ ] [reselect](https://github.com/reduxjs/reselect)
+    - [ ] [Большие таблицы и списки с react-virtualized](https://github.com/bvaughn/react-virtualized)
+    - [ ] [react-dnd](https://github.com/react-dnd/react-dnd)
+    - [ ] [react-loadable](https://github.com/jamiebuilds/react-loadable)
+    - [ ] [Тестирование React-компонент](https://medium.com/devschacht/what-and-how-to-test-with-jest-and-enzyme-full-instruction-on-react-components-testing-d3504f3fbc54)
+    
+---
+
+### NodeJS
