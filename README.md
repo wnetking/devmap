@@ -30,7 +30,7 @@
     - [ ] [CSS фреймворки](#css-фреймворки-)
     - [ ] [JavaScript фреймворки](#javascript-фреймворки-)
     - [ ] [Одностраничное приложение](#Одностраничное-приложение-)
-    - [ ] [React JS advanced](##react-js-advanced-)
+    - [ ] [React JS advanced](#react-js-advanced-)
     - [ ] [NodeJS](#nodejs-)
 ---
 
