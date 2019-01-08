@@ -15,19 +15,10 @@
     - [ ] [Тестирование](#Тестирование-)
     - [ ] [Безопасность сайтов](#Безопасность-сайтов-)
     - [ ] [Тайм-менеджмент](#Тайм-менеджмент-)
-
-- [**Карта развития Back-end разработчика:**](#Карта-развития-back-end-разработчика-)
     - [ ] [Алгоритмы](#Алгоритмы-)
-    - [ ] [Серверные языки программирования](#Серверные-языки-программирования-)
     - [ ] [Паттерны программирования](#Паттерны-программирования-)
     - [ ] [Принципы программирования](#Принципы-программирования-)
     - [ ] [Регулярные выражения](#Регулярные-выражения-)
-    - [ ] [SQL](#sql-)
-    - [ ] [Проектирование баз данных](#Проектирование-баз-данных-)
-    - [ ] [Фреймворки](#Фреймворки-)
-    - [ ] [Пакетный менеджер](#Пакетный-менеджер-)
-    - [ ] [Устройство веб-серверов и способы взаимодействия](#Устройство-веб-серверов-и-способы-взаимодействия-)
-    - [ ] [Развертывание проектов](#Развертывание-проектов-)
 
 - [**Карта развития Front-end разработчика:**](#Карта-развития-front-end-разработчика-)
     - [ ] [JavaScript](#javascript-)
@@ -39,7 +30,8 @@
     - [ ] [CSS фреймворки](#css-фреймворки-)
     - [ ] [JavaScript фреймворки](#javascript-фреймворки-)
     - [ ] [Одностраничное приложение](#Одностраничное-приложение-)
-
+    - [ ] [React JS advanced](#react-js-advanced)
+    - [ ] [NodeJS](#node-js)
 ---
 
 ## Каждый уважающий себя разработчик должен знать [&uarr;](#Содержание)
@@ -388,10 +380,6 @@
 - [ ] [ReactJS](https://reactjs.org/) *
 - [ ] [Babel - компилятор для написания JavaScript следующего поколения](https://babeljs.io/) * 
 - [ ] [jQuery](https://jquery.com/)
-- [ ] [Underscore - набор полезных функций](http://underscorejs.org/)
-- [ ] [Modernizr - обнаруживает HTML5 и CSS3 функции в браузере пользователя](https://modernizr.com/)
-- [ ] [Three - 3D](http://threejs.org/)
-- [ ] [WOW - анимация при прокрутки страницы](http://mynameismatthieu.com/WOW/)
 - [ ] [Moment - Работа с датой и временем](http://momentjs.com/)
 - [ ] [Mocha - написание тестов](https://mochajs.org/)
 
@@ -457,8 +445,9 @@
     - [ ] [Одностраничное приложение (wikipedia)](https://ru.wikipedia.org/wiki/%D0%9E%D0%B4%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5)
     - [ ] [Пишем single-page web application framework в 60 строках кода (habrahabr)](https://habrahabr.ru/post/200720/)
     
-### React JS advanced [&uarr;](#Содержание)
+### React JS advanced [&uarr;](#react-js-advanced)
 Существуют разные фреймворки, не нужно изучать всё сразу, необходимо взять несколько фреймворков за основу.
+- [ ] Изучить:
     - [ ] [Redux](https://redux.js.org/)
     - [ ] [React-Redux](https://github.com/reduxjs/react-redux)
     - [ ] [Redux-Saga](https://redux-saga.js.org/docs/introduction/BeginnerTutorial.html)
@@ -473,4 +462,8 @@
     
 ---
 
-### NodeJS
+### NodeJS [&uarr;](#node-js)
+
+- [ ] Изучить:
+    - [ ] [First steps](https://codeburst.io/getting-started-with-node-js-a-beginners-guide-b03e25bca71b)
+    - [ ] [Expressjs](https://expressjs.com/ru/)
