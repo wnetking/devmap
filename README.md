@@ -30,8 +30,8 @@
     - [ ] [CSS фреймворки](#css-фреймворки-)
     - [ ] [JavaScript фреймворки](#javascript-фреймворки-)
     - [ ] [Одностраничное приложение](#Одностраничное-приложение-)
-    - [ ] [React JS advanced](#React-JS-advanced)
-    - [ ] [NodeJS](#nodejs)
+    - [ ] [React JS advanced](##react-js-advanced-)
+    - [ ] [NodeJS](#nodejs-)
 ---
 
 ## Каждый уважающий себя разработчик должен знать [&uarr;](#Содержание)
