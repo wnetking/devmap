@@ -33,6 +33,7 @@
     - [ ] [React JS advanced](#react-js-advanced-)
     - [ ] [NodeJS](#nodejs-) 
     - [ ] [TypeScript/Flow](#typescriptflow-) 
+    - [ ] [Code debug](#code-debug-) 
 ---
 
 ## Каждый уважающий себя разработчик должен знать [&uarr;](#Содержание)
@@ -470,7 +471,7 @@
     - [ ] [First steps](https://codeburst.io/getting-started-with-node-js-a-beginners-guide-b03e25bca71b)
     - [ ] [Expressjs](https://expressjs.com/ru/)
     
-    ---
+---
 
 ### TypeScript/Flow [&uarr;](#Содержание)
 
@@ -480,3 +481,13 @@
     - [ ] [TypeScript документация на русском](https://nauchikus.gitlab.io/typescript-definitive-guide/)
     - [ ] [Flow](https://flow.org/)
     - [ ] [Flow+ReactJS](https://flow.org/en/docs/react/components/)
+    
+    ---
+
+### Code debug [&uarr;](#Содержание)
+
+- [ ] Изучить:
+    - [ ] [Отладка в браузере Chrome](https://learn.javascript.ru/debugging-chrome)
+    - [ ] [How to debug React app in VSCode](https://www.youtube.com/watch?v=PJeNReqyH88)
+    - [ ] [Debugging JavaScript in Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/)
+    - [ ] [JavaScript debugging tools](https://raygun.com/javascript-debugging-tools)
