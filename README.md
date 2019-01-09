@@ -468,3 +468,14 @@
 - [ ] Изучить:
     - [ ] [First steps](https://codeburst.io/getting-started-with-node-js-a-beginners-guide-b03e25bca71b)
     - [ ] [Expressjs](https://expressjs.com/ru/)
+    
+    ---
+
+### TypeScript/Flow [&uarr;](#Содержание)
+
+- [ ] Изучить:
+    - [ ] [TypeScript](https://www.typescriptlang.org/)
+    - [ ] [TypeScript на русском](http://typescript-lang.ru/docs/Basic%20Types.html)
+    - [ ] [TypeScript документация на русском](https://nauchikus.gitlab.io/typescript-definitive-guide/)
+    - [ ] [Flow](https://flow.org/)
+    - [ ] [Flow+ReactJS](https://flow.org/en/docs/react/components/)
