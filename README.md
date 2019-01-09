@@ -31,7 +31,8 @@
     - [ ] [JavaScript фреймворки](#javascript-фреймворки-)
     - [ ] [Одностраничное приложение](#Одностраничное-приложение-)
     - [ ] [React JS advanced](#react-js-advanced-)
-    - [ ] [NodeJS](#nodejs-)
+    - [ ] [NodeJS](#nodejs-) 
+    - [ ] [TypeScript/Flow](#typescriptflow-) 
 ---
 
 ## Каждый уважающий себя разработчик должен знать [&uarr;](#Содержание)
